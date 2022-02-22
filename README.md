@@ -5,7 +5,7 @@ Simple proxy to proxy an endpoint to localhost
 ## installation
 
 ```bash
-
+git clone git@github.com:Cyronlee/simproxy.git
 ```
 
 ## usage example
